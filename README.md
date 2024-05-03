@@ -1,2 +1,2 @@
 # suno-livestream
-livestream top 50 music ai in Youtube
+livestream top 50 music ai Youtube
