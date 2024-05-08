@@ -1,6 +1,9 @@
 # suno-livestream
 livestream top 50 music ai Youtube
 
+```bach
+npm i; npm run main
+```
 # INSTALL FFMPEG
 ```bach
 sudo apt -y install ffmpeg
