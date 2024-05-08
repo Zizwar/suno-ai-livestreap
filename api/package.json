@@ -2,14 +2,15 @@
   "name": "sunoma",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "sunoma.js",
+  "type": "module",
   "scripts": {
+    "start": "node sunoma.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "brahim bidi",
+  "author": "brahimBIDI",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.8",
     "itty-router": "^5.0.17"
   }
 }
